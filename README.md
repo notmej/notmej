@@ -1,6 +1,6 @@
 Hello :)  
 My name is Yunona 🦝  
-I'm a 1st year Comp Sci student.✨💻   
+I'm a 2nd year Comp Sci student.✨💻   
 Most of the stuff posted here is either personal projects or reviews  
 
 I haven't used git in a long time this is the first time I'm using it properly 
