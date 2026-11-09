@@ -1,7 +1,3 @@
 Hello :)  
 My name is Yunona 🦝  
-Comp Sci student.✨💻
-
-
-
-
+Comp Sci student @WIUT.✨💻
